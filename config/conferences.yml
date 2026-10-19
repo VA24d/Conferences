@@ -22,7 +22,7 @@ conferences:
       typical_submission_month: 6
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-06-30'
+      paper_submission_date: '2026-12-18'
       abstract_deadline: '2026-06-23'
       intimation_date: '2026-10-20'
       website_url: https://conf.researchr.org/track/icse-2027/icse-2027-research-track
@@ -94,15 +94,15 @@ conferences:
       website_url: https://chain-sec.github.io/
       camera_ready_deadline: ''
     - workshop_name: DeepTest Workshop (Deep Learning for Testing)
-      paper_submission_date: '2026-10-20'
+      paper_submission_date: '2025-12-31'
       abstract_deadline: ''
-      intimation_date: '2026-12-15'
+      intimation_date: '2026-01-21'
       website_url: https://conf.researchr.org/home/icse-2026/deeptest-2026
       camera_ready_deadline: ''
     - workshop_name: SE4ALL Workshop (Software Engineering and AI for All)
       paper_submission_date: '2026-11-13'
       abstract_deadline: ''
-      intimation_date: '2026-12-20'
+      intimation_date: '2026-12-11'
       website_url: https://conf.researchr.org/home/icse-2027/se4all-2027
       camera_ready_deadline: ''
     - workshop_name: SBFT Workshop (Search-Based and Fuzz Testing)
@@ -130,7 +130,7 @@ conferences:
       typical_submission_month: 10
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-10-02'
+      paper_submission_date: '2027-03-05'
       abstract_deadline: ''
       intimation_date: '2027-01-22'
       website_url: https://conf.researchr.org/track/fse-2027/fse-2027-papers
@@ -212,7 +212,7 @@ conferences:
       typical_submission_month: 1
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2027-01-11'
+      paper_submission_date: '2027-01-08'
       abstract_deadline: '2027-01-08'
       intimation_date: '2027-07-22'
       website_url: https://conf.researchr.org/home/issta-2027
@@ -266,12 +266,11 @@ conferences:
       website_url: https://conf.researchr.org/track/saner-2027/saner-2027-reproducibility-studies-and-negative-results-rene-track
       camera_ready_deadline: '2027-01-08'
     - track_name: Journal first track
-      paper_submission_date: '2026-12-08'
+      paper_submission_date: '2025-12-08'
       abstract_deadline: ''
-      intimation_date: '2026-12-22'
+      intimation_date: '2025-12-22'
       website_url: https://conf.researchr.org/track/saner-2026/saner-2026-journal-first-track
       camera_ready_deadline: '2027-01-08'
-      estimated: true
     - track_name: Tool track
       paper_submission_date: '2026-10-23'
       abstract_deadline: '2026-10-19'
@@ -308,12 +307,11 @@ conferences:
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-papers
       camera_ready_deadline: ''
     - track_name: Short paper track
-      paper_submission_date: '2027-03-02'
-      abstract_deadline: '2027-02-23'
-      intimation_date: '2027-04-06'
+      paper_submission_date: '2027-03-01'
+      abstract_deadline: '2027-02-22'
+      intimation_date: '2027-04-05'
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-short-papers-and-emerging-results
       camera_ready_deadline: ''
-      estimated: true
     - track_name: In practice track
       paper_submission_date: '2027-03-01'
       abstract_deadline: '2027-02-22'
@@ -321,12 +319,11 @@ conferences:
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-industry-papers#Call-for-Papers
       camera_ready_deadline: ''
     - track_name: Posters track
-      paper_submission_date: '2027-03-02'
+      paper_submission_date: '2027-03-16'
       abstract_deadline: ''
-      intimation_date: '2027-04-06'
+      intimation_date: '2027-04-28'
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-posters-and-vision
       camera_ready_deadline: '2027-04-20'
-      estimated: true
     - track_name: Journal first track
       paper_submission_date: '2027-03-06'
       abstract_deadline: ''
@@ -341,21 +338,19 @@ conferences:
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-doctoral-symposium
       camera_ready_deadline: ''
     - track_name: Data and Benchmarking track
-      paper_submission_date: '2027-03-02'
+      paper_submission_date: '2027-03-15'
       abstract_deadline: ''
-      intimation_date: '2027-04-06'
+      intimation_date: '2027-04-16'
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-ai-models---data
       camera_ready_deadline: ''
-      estimated: true
     - track_name: Reproducibility Studies and Negative Results Track
-      paper_submission_date: '2027-02-23'
-      abstract_deadline: '2027-02-23'
-      intimation_date: '2027-04-06'
+      paper_submission_date: '2027-03-01'
+      abstract_deadline: '2027-02-22'
+      intimation_date: '2027-04-12'
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-reproducibility-and-negative-results
       camera_ready_deadline: '2027-04-20'
-      estimated: true
     - track_name: Tutorials and technical briefings track
-      paper_submission_date: '2027-03-02'
+      paper_submission_date: '2027-03-01'
       abstract_deadline: ''
       intimation_date: '2027-04-05'
       website_url: https://conf.researchr.org/track/ease-2027/ease-2027-tutorial
@@ -547,7 +542,7 @@ conferences:
       typical_submission_month: 11
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-11-04'
+      paper_submission_date: '2026-10-30'
       abstract_deadline: '2026-10-30'
       intimation_date: '2027-01-20'
       website_url: https://conf.researchr.org/home/icsa-2027
@@ -575,7 +570,8 @@ conferences:
       estimated: true
     country_code: nl
   SEAMS:
-    full_name: International Symposium on Software Engineering for Adaptive and Self-Managing Systems
+    full_name: International Symposium on Software Engineering for Adaptive and Self-Managing
+      Systems
     core_rating: A
     location: Dublin, Ireland (Co-located with ICSE 2027)
     country: Ireland
@@ -626,14 +622,15 @@ conferences:
     tracks:
     - track_name: Agent-Based Software Engineering Track
       workshop_name: Agentic Engineering Workshop (Agentic AI in SE)
-      paper_submission_date: '2026-11-15'
+      paper_submission_date: '2026-11-13'
       abstract_deadline: ''
-      intimation_date: '2026-12-22'
+      intimation_date: '2026-12-11'
       website_url: https://conf.researchr.org/home/icse-2027/agent-2027
       camera_ready_deadline: '2027-01-29'
     country_code: ie
   CAIN:
-    full_name: IEEE/ACM International Conference on AI Engineering – Software Engineering for AI
+    full_name: IEEE/ACM International Conference on AI Engineering – Software Engineering
+      for AI
     core_rating: A
     location: Dublin, Ireland (Co-located with ICSE 2027)
     country: Ireland
@@ -663,7 +660,8 @@ conferences:
       camera_ready_deadline: ''
     country_code: ie
   MODELS:
-    full_name: ACM/IEEE International Conference on Model Driven Engineering Languages and Systems
+    full_name: ACM/IEEE International Conference on Model Driven Engineering Languages
+      and Systems
     core_rating: A
     location: Linz, Austria
     country: Austria
@@ -717,26 +715,25 @@ conferences:
       typical_submission_month: 9
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-09-15'
+      paper_submission_date: '2027-02-08'
       abstract_deadline: '2026-09-08'
       intimation_date: '2026-11-10'
       website_url: https://conf.researchr.org/home/isec-2026
       camera_ready_deadline: '2026-12-01'
-      estimated: true
     - track_name: In practice track
-      paper_submission_date: '2026-10-01'
+      paper_submission_date: '2027-02-08'
       abstract_deadline: ''
       intimation_date: '2026-11-15'
       website_url: https://conf.researchr.org/home/isec-2026
       camera_ready_deadline: ''
     - workshop_name: ModSym Workshop (Modelling Symposium)
-      paper_submission_date: '2026-10-10'
+      paper_submission_date: '2027-02-08'
       abstract_deadline: ''
       intimation_date: '2026-11-25'
       website_url: https://conf.researchr.org/home/isec-2026
       camera_ready_deadline: ''
     - workshop_name: VR and Emerging Tech in SE Track
-      paper_submission_date: '2026-10-05'
+      paper_submission_date: '2027-02-08'
       abstract_deadline: ''
       intimation_date: '2026-11-20'
       website_url: https://conf.researchr.org/home/isec-2026
@@ -791,7 +788,7 @@ conferences:
       typical_submission_month: 11
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-10-23'
+      paper_submission_date: '2026-10-20'
       abstract_deadline: '2026-10-20'
       intimation_date: '2027-01-20'
       website_url: https://conf.researchr.org/home/msr-2027
@@ -973,12 +970,11 @@ conferences:
       typical_submission_month: 2
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2027-02-15'
+      paper_submission_date: '2027-01-20'
       abstract_deadline: ''
       intimation_date: '2027-05-01'
       website_url: ''
       camera_ready_deadline: ''
-      estimated: true
     country_code: un
   PLDI:
     full_name: ACM-SIGPLAN Conference on Programming Language Design and Implementation
@@ -1188,8 +1184,8 @@ conferences:
       estimated: true
     country_code: un
   ICSME:
-    full_name: IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International
-      Conference on Software Maintenance)
+    full_name: IEEE International Conference on Software Maintenance and Evolution
+      (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)
     core_rating: A
     domain: se
     location: TBA
@@ -1235,23 +1231,23 @@ conferences:
     - track_name: New Ideas and Emerging Results
       paper_submission_date: '2027-01-13'
       abstract_deadline: ''
-      intimation_date: ''
+      intimation_date: '2027-02-19'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-nier
       camera_ready_deadline: ''
     - track_name: Industry
       paper_submission_date: '2027-01-21'
       abstract_deadline: ''
-      intimation_date: ''
+      intimation_date: '2027-03-04'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-industry
       camera_ready_deadline: ''
     - track_name: Challenge Competition Track
       paper_submission_date: '2027-01-15'
       abstract_deadline: ''
-      intimation_date: ''
+      intimation_date: '2026-10-20'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-challenge-competition-track
       camera_ready_deadline: ''
     - workshop_name: Workshops (returning proposals)
-      paper_submission_date: '2026-11-04'
+      paper_submission_date: '2026-10-30'
       abstract_deadline: ''
       intimation_date: '2026-11-06'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-workshops
@@ -1281,7 +1277,8 @@ conferences:
       estimated: true
     country_code: un
   OOPSLA:
-    full_name: ACM Conference on Object Oriented Programming Systems Languages and Applications
+    full_name: ACM Conference on Object Oriented Programming Systems Languages and
+      Applications
     core_rating: A
     domain: se
     location: TBA
@@ -1327,7 +1324,8 @@ conferences:
       estimated: true
     country_code: un
   SIGGRAPH:
-    full_name: ACM SIG International Conference on Computer Graphics and Interactive Techniques
+    full_name: ACM SIG International Conference on Computer Graphics and Interactive
+      Techniques
     core_rating: A*
     domain: vr
     location: TBA
