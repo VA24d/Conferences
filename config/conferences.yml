@@ -154,7 +154,6 @@ conferences:
       intimation_date: '2027-03-25'
       website_url: https://conf.researchr.org/track/fse-2027/fse-2027-journal-first
       camera_ready_deadline: '2027-04-02'
-      estimated: true
     - track_name: Education track
       paper_submission_date: '2027-01-29'
       abstract_deadline: ''
@@ -169,12 +168,11 @@ conferences:
       camera_ready_deadline: '2027-04-02'
       estimated: true
     - track_name: Tool track
-      paper_submission_date: '2027-01-22'
+      paper_submission_date: '2027-01-26'
       abstract_deadline: ''
       intimation_date: '2027-03-17'
       website_url: https://conf.researchr.org/track/fse-2027/fse-2027-demonstrations
       camera_ready_deadline: '2027-04-02'
-      estimated: true
     - track_name: Tutorials and technical briefings track
       paper_submission_date: '2027-01-26'
       abstract_deadline: ''
@@ -788,7 +786,7 @@ conferences:
       typical_submission_month: 11
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-10-20'
+      paper_submission_date: '2026-12-03'
       abstract_deadline: '2026-10-20'
       intimation_date: '2027-01-20'
       website_url: https://conf.researchr.org/home/msr-2027
@@ -1243,7 +1241,7 @@ conferences:
     - track_name: Challenge Competition Track
       paper_submission_date: '2027-01-15'
       abstract_deadline: ''
-      intimation_date: '2026-10-20'
+      intimation_date: '2027-02-15'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-challenge-competition-track
       camera_ready_deadline: ''
     - workshop_name: Workshops (returning proposals)
