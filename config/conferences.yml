@@ -142,12 +142,11 @@ conferences:
       website_url: https://conf.researchr.org/track/fse-2027/fse-2027-industry-papers
       camera_ready_deadline: '2027-04-03'
     - track_name: New ideas and emerging results track
-      paper_submission_date: '2027-01-22'
+      paper_submission_date: '2027-02-12'
       abstract_deadline: ''
-      intimation_date: '2027-03-17'
+      intimation_date: '2027-03-12'
       website_url: https://conf.researchr.org/track/fse-2027/fse-2027-ideas-visions-and-reflections
       camera_ready_deadline: '2027-04-02'
-      estimated: true
     - track_name: Journal first track
       paper_submission_date: '2027-02-25'
       abstract_deadline: ''
@@ -380,8 +379,8 @@ conferences:
       website_url: https://ieeevr.org/2027/
       camera_ready_deadline: ''
     - track_name: Posters track
-      paper_submission_date: '2026-11-20'
-      abstract_deadline: ''
+      paper_submission_date: '2026-12-02'
+      abstract_deadline: '2026-12-02'
       intimation_date: '2026-12-18'
       website_url: https://ieeevr.org/2027/contribute/posters/
       camera_ready_deadline: ''
@@ -540,7 +539,7 @@ conferences:
       typical_submission_month: 11
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-10-30'
+      paper_submission_date: '2026-11-04'
       abstract_deadline: '2026-10-30'
       intimation_date: '2027-01-20'
       website_url: https://conf.researchr.org/home/icsa-2027
@@ -1245,7 +1244,7 @@ conferences:
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-challenge-competition-track
       camera_ready_deadline: ''
     - workshop_name: Workshops (returning proposals)
-      paper_submission_date: '2026-10-30'
+      paper_submission_date: '2026-11-04'
       abstract_deadline: ''
       intimation_date: '2026-11-06'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-workshops
