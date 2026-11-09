@@ -539,7 +539,7 @@ conferences:
       typical_submission_month: 11
     tracks:
     - track_name: Research paper track
-      paper_submission_date: '2026-11-04'
+      paper_submission_date: '2026-12-15'
       abstract_deadline: '2026-10-30'
       intimation_date: '2027-01-20'
       website_url: https://conf.researchr.org/home/icsa-2027
@@ -1220,7 +1220,7 @@ conferences:
       typical_submission_month: 11
     tracks:
     - track_name: Research Papers
-      paper_submission_date: '2026-11-02'
+      paper_submission_date: '2027-01-31'
       abstract_deadline: ''
       intimation_date: '2026-12-22'
       website_url: https://conf.researchr.org/track/icst-2027/icst-2027-research-papers
