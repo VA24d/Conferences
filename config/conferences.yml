@@ -76,9 +76,9 @@ conferences:
       website_url: https://conf.researchr.org/track/icse-2027/icse-2027-src
       camera_ready_deadline: '2027-01-20'
     - track_name: Challenge track
-      paper_submission_date: '2026-11-13'
+      paper_submission_date: '2026-12-18'
       abstract_deadline: ''
-      intimation_date: '2026-12-18'
+      intimation_date: '2026-07-24'
       website_url: https://conf.researchr.org/track/icse-2027/icse-2027-industry-challenge
       camera_ready_deadline: '2027-01-29'
     - workshop_name: LLM4Code Workshop (LLMs for Code)
@@ -100,7 +100,7 @@ conferences:
       website_url: https://conf.researchr.org/home/icse-2026/deeptest-2026
       camera_ready_deadline: ''
     - workshop_name: SE4ALL Workshop (Software Engineering and AI for All)
-      paper_submission_date: '2026-11-13'
+      paper_submission_date: '2026-11-20'
       abstract_deadline: ''
       intimation_date: '2026-12-11'
       website_url: https://conf.researchr.org/home/icse-2027/se4all-2027
