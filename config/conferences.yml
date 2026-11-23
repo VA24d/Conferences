@@ -619,7 +619,7 @@ conferences:
     tracks:
     - track_name: Agent-Based Software Engineering Track
       workshop_name: Agentic Engineering Workshop (Agentic AI in SE)
-      paper_submission_date: '2026-11-13'
+      paper_submission_date: '2026-11-20'
       abstract_deadline: ''
       intimation_date: '2026-12-11'
       website_url: https://conf.researchr.org/home/icse-2027/agent-2027
